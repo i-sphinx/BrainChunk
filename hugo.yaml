@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com/"
+baseURL: "https://brain-chunk.vercel.app/"
 title: Brain Chunk
 pagination:
   pagerSize: 5
@@ -20,7 +20,7 @@ params:
   keywords: [Blog, Portfolio, PaperMod, Documentation]
   author: Me
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["images/testui.png"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false

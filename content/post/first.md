@@ -1,5 +1,5 @@
 ---
-title: "My 1st post"
+title: "My 1st pos with image"
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
@@ -25,13 +25,15 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
+    image: "https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg?auto=compress&cs=tinysrgb&w=600" # image path/url
+    alt: "alt text" # alt text
+    caption: "test caption" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 editPost:
     URL: "https://github.com/<path_to_repo>/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+
+## this is test field
